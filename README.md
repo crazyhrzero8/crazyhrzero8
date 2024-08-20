@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi there 👋
+
+- 🔭 I’m currently working on Myself haha
+- 🌱 I’m currently learning VLSI & Machine Learning to leverage into the chip as well as FPGA Engineering
+- 👯 I’m looking to collaborate on Chip Designing/ CPU/ Micro-Architecture Designing/ FPGA Engineer
+- 💬 Ask me about anything yet Industries revolution in India
+- 📫 How to reach me: email me at biplabdas2001.bd@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Computers with AI are the next generation?
 
 <!--
 **crazyhrzero8/crazyhrzero8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
