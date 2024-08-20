@@ -9,12 +9,9 @@
 - ⚡ Fun fact: Computers with AI are the next generation?
 
 ---
-
-![Biplab's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyhrzero8&show_icons=true&theme=transparent)
-
+![Biplab's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyhrzero8&show_icons=true&theme=transparent&hide=contribs,prs)
+---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyhrzero8&layout=compact)
-
-![Python program downloading & transcribing Lex Fridman podcasts. You see the name of each file as it is being downloaded/transcribed in a linux terminal](./resources/podcast_downloader.gif)
 
 
 <!--
