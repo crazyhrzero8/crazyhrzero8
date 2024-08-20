@@ -4,9 +4,18 @@
 - 🌱 I’m currently learning VLSI & Machine Learning to leverage into the chip as well as FPGA Engineering
 - 👯 I’m looking to collaborate on Chip Designing/ CPU/ Micro-Architecture Designing/ FPGA Engineer
 - 💬 Ask me about anything yet Industries revolution in India
-- 📫 How to reach me: email me at biplabdas2001.bd@gmail.com
+- 📫 How to reach me: email me at biplabdas2001.bd@gmail.com maybe send some ideas?
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Computers with AI are the next generation?
+
+---
+
+![Biplab's GitHub stats](https://github-readme-stats.vercel.app/api?username=crazyhrzero8&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazyhrzero8&layout=compact)
+
+![Python program downloading & transcribing Lex Fridman podcasts. You see the name of each file as it is being downloaded/transcribed in a linux terminal](./resources/podcast_downloader.gif)
+
 
 <!--
 **crazyhrzero8/crazyhrzero8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
