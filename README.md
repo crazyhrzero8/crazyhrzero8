@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Myself haha
+- 🔭 I’m currently working on Myself haha just kidding, Working on Computer Arch knowledge for Processors with Machine Learning benefits
 - 🌱 I’m currently learning VLSI & Machine Learning to leverage into the chip as well as FPGA Engineering
 - 👯 I’m looking to collaborate on Chip Designing/ CPU/ Micro-Architecture Designing/ FPGA Engineer
 - 💬 Ask me about anything yet Industries revolution in India
